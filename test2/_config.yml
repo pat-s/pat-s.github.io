@@ -1,7 +1,5 @@
----
-layout: redirected
-sitemap: false
-permalink: /oldlocation/
-redirect_to:  /https://tv.cynkra.com/
----
+plugins:
+  - jekyll-redirect-from
+title: My amazing post
+redirect_to: http://tv.cynkra.com
 
